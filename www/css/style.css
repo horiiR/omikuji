@@ -1,0 +1,43 @@
+body {
+    background-image : url("../images/omikuji-bg.png");
+    background-size : cover;
+    background-repeat: no-repeat;
+    margin : 0;
+    padding : 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+#omikuji{
+	margin: 20px;
+    width : 60%;
+}
+#playBtn {
+    width: 60%;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #F6CECE;
+    color: white;
+    outline: none;
+}
+#playBtn_oni {
+    margin-top: 10px;
+    width: 60%;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #610B0B;
+    color: white;
+    outline: none;
+}
+#playBtn_yb {
+    margin-top: 10px;
+    width: 60%;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #FF0000;
+    color: white;
+    outline: none;
+}
